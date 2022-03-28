@@ -832,7 +832,3 @@ Kill Asgore thrice to get "..." in end Flowey text:
 
 VERIFICATION MOVIE FINISHED.
 
-
-
-
-
