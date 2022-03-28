@@ -820,14 +820,18 @@ LAB TG Info No Delay + NOTIF TG Info 2 Frame All - 16/20 [NO THANKS]
 
 -----VERIFICATION MOVIE INFO-----
 Get good fun value.
+[FUN IS GOOD]
 
 Select Cinnamon when Toriel asks what flavor of pie you want.
-
+[DONE THIS]
 
 Kill Asgore thrice to get "..." in end Flowey text:
 	Save in Judgement Hall, Gameover in asgore, then kill Asgore once then do Omega Flowey 
 	then reload when you reach the UNDERTALE logo. Kill Asgore again and reload again. Kill 
 	Asgore once more and the Won value in undertale.ini should be 3.000000.
+[DONE THIS TOO]
+
+VERIFICATION MOVIE FINISHED.
 
 
 
