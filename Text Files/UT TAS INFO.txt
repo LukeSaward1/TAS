@@ -814,7 +814,10 @@ LAB TG Info No Delay + NOTIF TG Info 1 Frame Partial - 16/20 [NO THANKS]
 LAB TG Info No Delay + NOTIF TG Info 1 Frame All - 16/20 [NO THANKS]
 LAB TG Info No Delay + NOTIF TG Info 2 Frame Partial - 15/20 | 144/150 [FUCK YES!]
 
+---NEW HOME GEOBAGEL SKIP BLCON MANIP---
+GOAL: 118 OR HIGHER
 
+Achieved. And no, I'm not talking about the TSMFTX Rainbow Six: Siege player Achieved :)
 
 
 -----VERIFICATION MOVIE INFO-----
