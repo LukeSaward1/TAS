@@ -816,7 +816,14 @@ LAB TG Info No Delay + NOTIF TG Info 2 Frame Partial - 15/20 | 144/150 [FUCK YES
 
 ****[FEEDBACK FOR WIP 6]****
 Cancelled WW into LF3 loses time
+
 open the menu on the first frame of the room after menu recovery [need Variable Framerate for this]
+
+****[STUFF FOR WIP 7]****
+---ENTERING LF3---
+Fixed the cancelled WW thing, saved 0.1s.
+
+Haven't done this, will do this in the next WIP.
 
 ---NEW HOME GEOBAGEL SKIP BLCON MANIP---
 GOAL: 118 OR HIGHER
@@ -826,8 +833,10 @@ Achieved. And no, I'm not talking about the TSMFTX Rainbow Six Siege player Achi
 ---TASGORE---
 Yes.
 
+---FLOWEY---
+Not even a worry.
 
-
+****[FEEDBACK FOR WIP 7]****
 You didn't do optimal menuing during the soul flash after getting the first key
 
 PCE sliding the encounter on the right is faster
