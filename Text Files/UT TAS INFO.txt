@@ -823,7 +823,7 @@ open the menu on the first frame of the room after menu recovery [need Variable 
 ---ENTERING LF3---
 Fixed the cancelled WW thing, saved 0.1s.
 
-Haven't done this, will do this in the next WIP.
+Haven't opened the menu on the first frame of the room after menu recovery, will do this in the next WIP.
 
 ---NEW HOME GEOBAGEL SKIP BLCON MANIP---
 GOAL: 118 OR HIGHER
