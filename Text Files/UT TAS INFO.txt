@@ -843,8 +843,15 @@ PCE sliding the encounter on the right is faster
 
 CELL Fixyflow chain in the long room of monstertale [need Variable Framerate for this]
 
-****[STUFF FOR WIP 7]****
-~blah~blah~blah~
+****[STUFF FOR WIP 8]****
+Things to do:
+- First 60fps menu recovery [DONE]
+- Second 60fps menu recovery [DONE]
+- Third 60fps menu recovery [DONE]
+- Optimal menuing during soul flash after getting first key.
+- PCE slide the second rining room encounter, it's faster.
+- CELL Fixyflow chain in Monstertale instead of ITEM Fixyflow. Loses 1 frame initially but saves 1 frame per
+  Fixyflow. You save time with it 12 times, so 1x12 is 12. 12*0.03 is 0.36s of timesave, assuming 30fps.
 
 -----VERIFICATION MOVIE INFO-----
 Get good fun value.
