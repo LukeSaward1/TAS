@@ -1,0 +1,863 @@
+****[STUFF FOR WIP 2]****
+
+---SNOWDIN SNOWDRAKE ENCOUNTER MANIP---
+No Manips - 125/150
+
+Sans TB 1 - 135/150
+Sans TB 1 + Save TB - 130/150
+Sans TB 1 + Box TB - 126/150
+Sans TB 1 + Save TB + Box TB - 145/150 **[HIGHEST SO FAR]**
+Sans TB 1 + Double Save TB - 126/150
+Sans TB 1 + Double Box TB - 126/150
+Sans TB 1 + Triple Save TB- 130/150
+Sans TB 1 + Triple Box TB - 130/150
+Sans TB 1 + Save Dialogue Box - 135/150
+Sans TB 1 + Double Save Dialogue Box - 135/150
+Sans TB 1 + Triple Save Dialogue Box - 135/150
+Sans TB 1 + Box Choicer Manip - 123/150
+Sans TB 1 + Double Box Choicer Manip - 144/150
+Sans TB 1 + Triple Box Choicer Manip - 121/150
+
+Sans TB 2nd to Last - 126/150
+Sans TB 2nd to Last + Save TB - 135/150
+Sans TB 2nd to Last + Box TB - 135/150
+Sans TB 2nd to Last + Save TB + Box TB - 130/150
+Sans TB 2nd to Last + Double Save TB - 145/150 **[HIGHEST SO FAR]**
+Sans TB 2nd to Last + Double Box TB - 145/150 **[HIGHEST SO FAR]**
+Sans TB 2nd to Last + Triple Save TB - 139/150
+Sans TB 2nd to Last + Triple Box TB - 139/150
+Sans TB 2nd to Last + Save Dialogue Box - 126/150
+Sans TB 2nd to Last + Double Save Dialogue Box - 126/150
+Sans TB 2nd to Last + Triple Save Dialogue Box - 126/150
+Sans TB 2nd to Last + Box Choicer Manip - 140/150
+Sans TB 2nd to Last + Double Box Choicer Manip - 144/150
+Sans TB 2nd to Last + Triple Box Choicer Manip - 127/150
+
+Sans TB Last - 126/150
+Sans TB Last + Save TB - 135/150
+Sans TB Last + Box TB - 135/150
+Sans TB Last + Save TB + Box TB - 130/150
+Sans TB Last + Double Save TB - 145/150 **[HIGHEST SO FAR]**
+Sans TB Last + Double Box TB - 145/150 **[HIGHEST SO FAR]**
+Sans TB Last + Triple Save TB - ???/150
+Sans TB Last + Triple Box TB - ???/150
+Sans TB Last + Save Dialogue Box - ???/150
+Sans TB Last + Double Save Dialogue Box - ???/150
+Sans TB Last + Triple Save Dialogue Box - ???/150
+Sans TB Last + Box Choicer Manip - ???/150
+Sans TB Last + Double Box Choicer Manip - ???/150
+Sans TB Last + Triple Box Choicer Manip - ???/150
+
+I DECIDED ON 145/150, I COULDN'T BE ASSED TO TEST ANY LONGER LMFAO
+
+---GREATER DOG ATTACK MANIP---
+GOAL: DOG ATTACK EVERY TURN
+
+I had to manip 3 or 4 frames in order to get the dog attack every turn.
+
+---WATERFALL AARON ENCOUNTER MANIP---
+22/50 is currently my best [delay on completed textbox till alarm value is 4]
+
+Delay 8 frames - 22/50
+
+I DECIDED ON 22/50, I COULDN'T GET ANY LOWER NO MATTER WHAT I TRIED WITH THE TEXT LOL
+
+---WATERFALL WOSHUA ROOM ENCOUNTER MANIP---
+GOAL: HIGHER THAN 135/140
+
+Ring... Text Partial - 120/140
+Ring... Text All - 126/140
+Hello! Text Partial - 120/140
+Hello! Text All - 120/140
+How Text Partial - 111/140
+How Text All - 134/140
+It Was Text Partial - 111/140
+It Was Text All - 139/140 **[HIGHEST SO FAR]**
+I Just Text Partial - 111/140
+I Just Text All - 122/140
+Nyeh Text Partial - 120/140
+Nyeh Text All - 129/140
+So... Text Partial - 111/140
+So... Text All - 134/140
+I'm Asking Text Partial - 111/140
+I'm Asking Text All - 126/140
+She Thought Text Partial - 111/140
+She Thought Text All - 135/140
+Is That Text Partial - 111/140
+Is That Text All - 137/140 *damn close second*
+Choicer Text Partial - 120/140
+Choicer Text All - 116/140
+So You Are Text Partial - 120/140
+So You Are Text All - 120/140
+Got It Text Partial - 120/140
+Got It Text All - 136/140
+Have A Text Partial - 120/140
+Have A Text All - 131/140
+Click. Text Partial - 128/140
+Click. Text All - 112/140
+
+HIGHEST SO FAR: 139/140 [Delay one frame once "It was easy" is completely drawn] [ONE AWAY FROM PERFECT OH MY FUCKING GOD]
+
+I DECIDED ON 139/140, IT'S PRETTY MUCH PERFECT LMFAO
+
+---WATERFALL MOLDSMAL BLCON MANIP---
+GOAL: blcon alarm[4] = 15/20
+
+CURRENT LOWEST BLCON ALARM VALUE: 16/20
+
+I'LL SETTLE FOR 16/20 SINCE I WOULDN'T SAVE TIME IF I MANIPPED
+
+---WATERFALL TEMMIE BLCON MANIP---
+GOAL: blcon alarm[4] = 15/20
+
+CURRENT LOWEST BLCON ALARM VALUE: 16/20
+
+I'LL SETTLE FOR 16/20 SINCE I WOULDN'T SAVE TIME IF I MANIPPED
+
+---HOTLAND VULKIN BLCON & MAGMA CHAMBER STEP COUNT MANIP---
+VULKIN BLCON GOAL: 15/20
+
+CURRENT LOWEST BLCON VALUE: 16/20
+
+I'LL SETTLE FOR THIS IF THE STEP COUNT IN MC ROOM IS LIKE 135 OR 136 OR 137 OR HIGHER
+
+MAGMA CHAMBER STEP COUNT GOAL: 135/150 OR HIGHER
+
+****[FEEDBACK FOR WIP 2]****
+holding up + right after falling down the hole in the beginning of ruins loses a frame (same for the 6 hole room)
+
+if you hold down against the rock for another frame in the 1 rock room you don't get bumped backwards
+
+you were also holding up + right into the toriel basement triggers. It doesn't lose time there, but on a lot of cutscenes that loses a frame, so be careful
+
+you still lost a frame interacting with the box. Doing the thing you did on the save point (which is cool btw, I didn't know you could do that) doesn't work because holding up + right into the sign stops you from moving.
+
+you can press x to close the box a frame earlier
+
+(Changes RNG) save a frame on doggo by moving further to the right with x
+
+you didn't release up after interacting with the switch in the tree for Geo strat, so you didn't move after interacting.
+
+new Ice puzzle thing [https://youtu.be/W-av5ShHco8]
+
+you also opened the menu too early for SGS. you can keep moving right for another frame or two if you do the menuing as fast as possible [won't change rng since you waited to open the text]
+
+you can save 10 frames by grabbing the right seed first for petals 2
+
+don't hold up right in the grass after spears 1, it loses a frame
+
+you waited two frames to info the punch card for willy warp (the warp out of spears 2 room)
+
+you also missed some wallclips in spears 2
+
+scroll the screen down in the mad dummy cutscene, saves a ton of frames
+
+you seem to have done all the wall clips in the mushroom maze that don't save time but not any of the ones in the lantern maze that do
+
+didn't do undyne zigzag :frowning:
+
+You didn't hold right when entering the room after spears 2, which loses a frame
+
+you didn't oww off the SPCA'd monster kid text
+
+do fixyflow chain vents (like this: https://youtu.be/Ml6jzjThEzE?t=53)
+
+****[STUFF FOR WIP 3]****
+
+---SNOWDIN SNOWDRAKE ENCOUNTER MANIP---
+Goal: 150/150
+
+Current Highest: 150/150
+
+I GOT THE BEST RNG LET'S GOOOOOOOOOOOOOO!!!
+
+---SNOWDIN DOGI ROOM ENCOUNTER MANIP---
+Goal: Around 149/150 or 150/150
+
+I got 149, let's go :)
+
+---GREATER DOG ATTACK MANIP---
+GOAL: DOG ATTACK EVERY TURN
+
+[I actually saved a frame yippee!!!]
+
+---WATERFALL WOSHUA ROOM ENCOUNTER MANIP---
+GOAL: 140/140
+[I CAN 0-FRAME MANIP LFG!!!]
+
+Stick Drop Manips:
+No Delay - 118/140
+1 Frame Delay Partial - 118/140
+2 Frame Delay Partial - 127/140
+3 Frame Delay Partial - 119/140
+4 Frame Delay Partial - 137/140
+5 Frame Delay Partial - 132/140
+6 Frame Delay Partial - 132/140
+7 Frame Delay Partial - 140/140 [YEEEESSSS LET'S FUCKING GOOOOO!!!!!!!!]
+
+I GOT 140/140 LFG!!!
+
+---WATERFALL MOLDSMAL BLCON MANIP---
+GOAL: blcon alarm[4] = 15/20
+
+I got 15/20 which is my goal, but since I manipped a frame it cancelled out the timesave
+
+****[FEEDBACK FOR WIP 3]****
+Still got the pushback on the one rock room
+
+You can close the box a frame earlier (same frame as getting glove)
+
+You can save a frame dodging the snowdecahedron by releasing right for a frame rather than pressing left
+
+You opened the menu a frame early for SGS
+
+Holding into the wall when getting on the ferry for spears 1 loses a frame
+
+****[STUFF FOR WIP 4]****
+
+---RUINS TORIEL ATTACK MANIP---
+GOAL: Little manips as possible to get optimal attacks
+
+No Delay - Shit
+
+Perspective Room 4 [Last]:
+Hand 1 - No Manip [0] [Total: 0]
+Hand 2 - 1 Frame Manip [1] [Total: 1][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 2][6]
+[TRAPPED.]
+
+You Wish To Return [Partial]:
+Hand 1 - No Manip [0] [Total: 0]
+Hand 2 - 1 Frame Manip [1] [Total: 1][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 2][6]
+Hand 4 - 1 Frame Manip [1] [Total: 3][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 4] (To 5HP)
+Hand 6 - No Manip [0] [Total: 4] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 5] (To 3HP)
+Cancel - 2 Frame Manip [2] [Total: 7] (To 2HP)
+Heal - 1 Frame Manip [1] [Total: 8] (Heal To 12HP)
+Hand 8 - NO MANIP [Total: 8] (To 9HP)
+Hand 9 - 1 Frame Manip [1] [Total: 9] (To 5HP)
+[TRAPPED, UNLESS I CAN DO A 2-FRAME MANIP AND MAKE IT UP.]
+Hand 10 - 2 Frame Manip [2] [Total: 11] (To 4HP)
+[LOST ALL MY TIMESAVE, DISCARDING.]
+
+You Wish To Return [All]:
+Hand 1 - 1 Frame Manip [1] [Total: 1]
+Hand 2 - 1 Frame Manip [1] [Total: 2][TO]
+Hand 3 - 0 Frame Manip [0] [Total: 2][6]
+Hand 4 - 1 Frame Manip [1] [Total: 4][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 5] (To 5HP)
+Hand 6 - 0 Frame Manip [0] [Total: 6] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 7] (To 3HP)
+Cancel -  2 Frame Manip [2] [Total: 9] (To 2HP)
+[HAHAHAHAHA TRAPPED LMFAO.]
+
+Ahead Of Us [Partial]:
+Hand 1 - 0 Frame Manip [0] [Total: 0]
+Hand 2 - 1 Frame Manip [1] [Total: 1][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 2][6]
+Hand 4 - 1 Frame Manip [1] [Total: 3][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 4] (To 5HP)
+Hand 6 - 1 Frame Manip [1] [Total: 5] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 6] (To 3HP)
+Cancel -  2 Frame Manip [2] [Total: 8] (To 2HP)
+[TRAPPED AGAIN XD]
+
+Ahead Of Us [All]:
+Hand 1 - 1 Frame Manip [1] [Total: 1]
+Hand 2 - 1 Frame Manip [1] [Total: 2][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 3][6]
+Hand 4 - 1 Frame Manip [1] [Total: 4][HP]
+[TRAPPED, UNLESS I CAN DO A 2-FRAME MANIP AND MAKE IT UP.]
+Hand 5 - 2 Frame Manip [2] Total [5] (To 5HP)
+[TRAPPED IDFC]
+
+A One-Way Exit [Partial]:
+Hand 1 - 0 Frame Manip [0] [Total: 0]
+Hand 2 - 1 Frame Manip [1] [Total: 1][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 2][6]
+Hand 4 - 1 Frame Manip [1] [Total: 3][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 4] (To 5HP)
+Hand 6 - 1 Frame Manip [1] [Total: 5] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 6] (To 3HP)
+Cancel -  2 Frame Manip [2] [Total: 8] (To 2HP)
+[PLEASE I BEG PLEASE LET ME PASS TORIEL]
+
+A One-Way Exit [All]:
+Hand 1 - 1 Frame Manip [1] [Total: 0]
+Hand 2 - 0 Frame Manip [0] [Total: 1][TO]
+Hand 3 - 0 Frame Manip [0] [Total: 1][6]
+Hand 4 - 1 Frame Manip [1] [Total: 2][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 3] (To 5HP)
+Hand 6 - 0 Frame Manip [0] [Total: 3] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 4] (To 3HP)
+Cancel - 2 Frame Manip [2] [Total: 6] (To 2HP)
+Hand 6 - 1 Frame Manip [1] [Total: 7] (To 9HP)
+Hand 7 - 1 Frame Manip [1] [Total: 8] (To 5HP)
+Hand 8 - 1 Frame Manip [1] [Total: 9] (To 4HP)
+Hand 9 - 1 Frame Manip [1] [Total: 10] (To 3HP)
+Cancel -  0 Frame Manip [0] [Total: 10] (To 2HP)
+[YIPPEEEE I DID IT!!!!!]
+
+I Am Going To [Partial]:
+Hand 1 - 0 Frame Manip [0] [Total: 0]
+Hand 2 - 1 Frame Manip [1] [Total: 1][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 2][6]
+Hand 4 - 1 Frame Manip [1] [Total: 3][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 4] (To 5HP)
+Hand 6 - 1 Frame Manip [1] [Total: 5] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 6] (To 3HP)
+Cancel -  2 Frame Manip [2] [Total: 8] (To 2HP)
+[TRAPPED AGAIN XD]
+
+I Am Going To [All]:
+Hand 1 - 0 Frame Manip [0] [Total: 0]
+Hand 2 - 1 Frame Manip [1] [Total: 1][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 2][6]
+Hand 4 - 1 Frame Manip [1] [Total: 3][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 4] (To 5HP)
+Hand 6 - 1 Frame Manip [1] [Total: 5] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 6] (To 3HP)
+Cancel -  2 Frame Manip [2] [Total: 8] (To 2HP)
+[TRAPPED AGAIN XD]
+
+You Are Just Like [Partial]:
+Hand 1 - No Manip [0] [Total: 0]
+Hand 2 - 1 Frame Manip [1] [Total: 1][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 2][6]
+Hand 4 - 1 Frame Manip [1] [Total: 3][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 4] (To 5HP)
+Hand 6 - 1 Frame Manip [1] [Total: 5] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 6] (To 3HP)
+Cancel - No Manip [0] [Total: 6] (To 2HP)
+[AGAIN.]
+
+You Are Just Like [All] - Very shit
+
+There Is Only [Partial]:
+Hand 1 - No Manip [0] [Total: 0]
+Hand 2 - No Manip [0] [Total: 0][TO]
+Hand 3 - 1 Frame Manip [1] [Total: 1][6]
+Hand 4 - 1 Frame Manip [1] [Total: 2][HP]
+Hand 5 - 1 Frame Manip [1] [Total: 3] (To 5HP)
+Hand 6 - No Manip [0] [Total: 3] (To 4HP)
+Hand 7 - 1 Frame Manip [1] [Total: 4] (To 3HP)
+Cancel - No Manip [0] [Total: 4] (To 2HP)
+[TRAPPED ON 2ND TO LAST ATTACK.]
+
+Prove Yourself... [Partial]:
+[TRAPPED. NOT EVEN ONE HAND LMFAO.]
+
+Prove Yourself... [All]:
+Hand 1 - No Manip [0] [Total: 0]
+Hand 2 - 1 Frame Manip [1] [Total: 1][TO]
+[TRAPPED.]
+
+---SNOWDIN SNOWDRAKE ENCOUNTER MANIP---
+No Manips - 130/150
+
+Save TB [Partial] - 141/150
+Save TB [All] - 150/150
+YEEESSS!!! ONE FIFTY!!!!
+
+---SNOWDIN DOGI ROOM ENCOUNTER MANIP---
+Goal: 149/150 or 150/150
+
+No Manip - 147/150
+
+Sans! Partial - 126/150
+Sans! Partial + 1 Frame Thanks For Saying Partial - 123/150
+Sans! Partial + 1 Frame Thanks For Saying All - 121/150
+Sans! Partial + 1 Frame Yesterday He Got Partial - 123/150
+Sans! Partial + 1 Frame Yesterday He Got All - 123/150
+Sans! Partial + 2 Frame Thanks For Saying Partial - 130/150
+Sans! Partial + 2 Frame Thanks For Saying All - 121/150
+Sans! Partial + 2 Frame Yesterday He Got Partial - 145/150
+Sans! Partial + 2 Frame Yesterday He Got All - 136/150
+Sans! Partial + 1 Frame Thanks For Saying Partial + 1 Frame Thanks For Saying All - 140/150
+Sans! Partial + 1 Frame Yesterday He Got Partial + 1 Frame Yesterday He Got All - 135/150
+Sans! Partial + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got Partial - 145/150
+Sans! Partial + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got All - 135/150
+Sans! Partial + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got All - 135/150
+Sans! Partial + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got Partial - 140/150
+
+Sans! All - 130/150
+Sans! All + 1 Frame Thanks For Saying Partial - 132/150
+Sans! All + 1 Frame Thanks For Saying All - 127/150
+Sans! All + 1 Frame Yesterday He Got Partial - 132/150
+Sans! All + 1 Frame Yesterday He Got All - 135/150
+Sans! All + 2 Frame Thanks For Saying Partial - 143/150
+Sans! All + 2 Frame Thanks For Saying All - 144/150
+Sans! All + 2 Frame Yesterday He Got Partial - 143/150
+Sans! All + 2 Frame Yesterday He Got All - 147/150
+Sans! All + 1 Frame Thanks For Saying Partial + 1 Frame Thanks For Saying All - 129/150
+Sans! All + 1 Frame Yesterday He Got Partial + 1 Frame Yesterday He Got All - 142/150
+Sans! All + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got Partial - 143/150
+Sans! All + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got All - 142/150
+Sans! All + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got All - 147/150
+Sans! All + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got Partial - 129/150
+
+Whoops Partial - 130/150
+Whoops Partial + 1 Frame Thanks For Saying Partial - 120/150
+Whoops Partial + 1 Frame Thanks For Saying All - 135/150
+Whoops Partial + 1 Frame Yesterday He Got Partial - 120/150
+Whoops Partial + 1 Frame Yesterday He Got All - 123/150
+Whoops Partial + 2 Frame Thanks For Saying Partial - 142/150
+Whoops Partial + 2 Frame Thanks For Saying All - 138/150
+Whoops Partial + 2 Frame Yesterday He Got Partial - 142/150
+Whoops Partial + 2 Frame Yesterday He Got All - 133/150
+Whoops Partial + 1 Frame Thanks For Saying Partial + 1 Frame Thanks For Saying All - 148/150
+Whoops Partial + 1 Frame Yesterday He Got Partial + 1 Frame Yesterday He Got All - 121/150
+Whoops Partial + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got Partial - 142/150
+Whoops Partial + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got All - 121/150
+Whoops Partial + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got All - 123/150
+Whoops Partial + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got Partial - 148/150
+
+Whoops All - 135/150
+Whoops All + 1 Frame Thanks For Saying Partial - 130/150
+Whoops All + 1 Frame Thanks For Saying All - 121/150
+Whoops All + 1 Frame Yesterday He Got Partial - 130/150
+Whoops All + 1 Frame Yesterday He Got All - 135/150
+Whoops All + 2 Frame Thanks For Saying Partial - 149/150 [ARE YOU KIDDING ME?!?!?!]
+Whoops All + 2 Frame Thanks For Saying All - 129/150
+Whoops All + 2 Frame Yesterday He Got Partial - 120/150
+Whoops All + 2 Frame Yesterday He Got All - 123/150
+Whoops All + 1 Frame Thanks For Saying Partial + 1 Frame Thanks For Saying All - 126/150
+Whoops All + 1 Frame Yesterday He Got Partial + 1 Frame Yesterday He Got All - 148/150
+Whoops All + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got Partial - 120/150
+Whoops All + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got All - 148/150
+Whoops All + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got All - 138/150
+Whoops All + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got Partial - 126/150
+
+I Knew I Should Partial - 126/150
+I Knew I Should Partial + 1 Frame Thanks For Saying Partial - 123/150
+I Knew I Should Partial + 1 Frame Thanks For Saying All - 121/150
+I Knew I Should Partial + 1 Frame Yesterday He Got Partial - 123/150
+I Knew I Should Partial + 1 Frame Yesterday He Got All - 123/150
+I Knew I Should Partial + 2 Frame Thanks For Saying Partial - 130/150
+I Knew I Should Partial + 2 Frame Thanks For Saying All - 121/150
+I Knew I Should Partial + 2 Frame Yesterday He Got Partial - 145/150
+I Knew I Should Partial + 2 Frame Yesterday He Got All - 136/150
+I Knew I Should Partial + 1 Frame Thanks For Saying Partial + 1 Frame Thanks For Saying All - 140/150
+I Knew I Should Partial + 1 Frame Yesterday He Got Partial + 1 Frame Yesterday He Got All - 135/150
+I Knew I Should Partial + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got Partial - 145/150
+I Knew I Should Partial + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got All - 135/150
+I Knew I Should Partial + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got All - 135/150
+I Knew I Should Partial + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got Partial - 140/150
+
+I Knew I Should All - 124/150
+I Knew I Should All + 1 Frame Thanks For Saying Partial - 136/150
+I Knew I Should All + 1 Frame Thanks For Saying All - 139/150
+I Knew I Should All + 1 Frame Yesterday He Got Partial - 136/150
+I Knew I Should All + 1 Frame Yesterday He Got All - 137/150
+I Knew I Should All + 2 Frame Thanks For Saying Partial - 131/150
+I Knew I Should All + 2 Frame Thanks For Saying All - 122/150
+I Knew I Should All + 2 Frame Yesterday He Got Partial - 125/150
+I Knew I Should All + 2 Frame Yesterday He Got All - 139/150
+I Knew I Should All + 1 Frame Thanks For Saying Partial + 1 Frame Thanks For Saying All - 124/150
+I Knew I Should All + 1 Frame Yesterday He Got Partial + 1 Frame Yesterday He Got All - 126/150
+I Knew I Should All + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got Partial - 125/150
+I Knew I Should All + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got All - 126/150
+I Knew I Should All + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got All - 135/150
+I Knew I Should All + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got Partial - 124/150
+
+What!? Partial - 130/150
+What!? Partial + 1 Frame Thanks For Saying Partial - 120/150
+What!? Partial + 1 Frame Thanks For Saying All - 135/150
+What!? Partial + 1 Frame Yesterday He Got Partial - 136/150
+What!? Partial + 1 Frame Yesterday He Got All - 123/150
+What!? Partial + 2 Frame Thanks For Saying Partial - 142/150
+What!? Partial + 2 Frame Thanks For Saying All - 138/150
+What!? Partial + 2 Frame Yesterday He Got Partial - 142/150
+What!? Partial + 2 Frame Yesterday He Got All - 133/150
+What!? Partial + 1 Frame Thanks For Saying Partial + 1 Frame Thanks For Saying All - 148/150
+What!? Partial + 1 Frame Yesterday He Got Partial + 1 Frame Yesterday He Got All - 121/150
+What!? Partial + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got Partial - 142/150
+What!? Partial + 1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got All - 121/150
+What!? Partial + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got All - 123/150
+What!? Partial + 1 Frame Thanks For Saying All + 1 Frame Yesterday He Got Partial - 148/150
+
+What!? All - 129/150
+What!? All + 1 Frame Thanks For Saying Partial - 127/150
+What!? All + 1 Frame Thanks For Saying All - 134/150
+What!? All + 1 Frame Yesterday He Got Partial - 127/150
+What!? All + 1 Frame Yesterday He Got All - 123/150
+What!? All + 2 Frame Thanks For Saying Partial - 150/150 [I GOT IT LET'S FUCKING GOOOOOOOOOO!!!!]
+
+1 Frame Thanks For Saying Partial - 135/150
+1 Frame Thanks For Saying All - 130/150
+1 Frame Yesterday He Got Partial - 135/150
+1 Frame Yesterday He Got All - 139/150
+2 Frame Thanks For Saying Partial - 123/150
+2 Frame Thanks For Saying All - 136/150
+2 Frame Yesterday He Got Partial - 126/150
+2 Frame Yesterday He Got All - 124/150
+1 Frame Thanks For Saying Partial + 1 Frame Thanks For Saying All - 123/150
+1 Frame Yesterday He Got Partial + 1 Frame Yesterday He Got All - 121/150
+1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got Partial - 126/150
+1 Frame Thanks For Saying Partial + 1 Frame Yesterday He Got All - 121/150
+1 Frame Thanks For Saying All + 1 Frame Yesterday He Got All - 132/150
+1 Frame Thanks For Saying All + 1 Frame Yesterday He Got Partial - 123/150
+
+---WATERFALL AARON ENCOUNTER MANIP---
+GOAL: 20/50
+
+21/50 is currently my best [WIP 3]
+
+CURRENT SESSION LOWEST : 20/50 [LMFAO GOT IT AGAIN]
+
+CELL (No Delay) - 37/50
+CELL (1 Frame Partial) - 37/50
+CELL (1 Frame All) - 20/50 [HAHAHAHAHA ARE YOU FUCKING SERIOUS?!?!] [fucks me over sadly]
+
+Stick Throw (No Delay) - 34/50
+Stick Throw (1 Frame Partial) - 42/50
+Stick Throw (1 Frame All) - 29/50
+Stick Throw (2 Frame Partial) - 42/50
+Stick Throw (2 Frame All) - 31/50
+Stick Throw (3 Frame Partial) - 48/50
+Stick Throw (3 Frame All) - 20/50 [LMFAO GOT IT AGAIN]
+Stick Throw (4 Frame Partial) - 47/50
+Stick Throw (4 Frame All) - 25/50
+Stick Throw (5 Frame Partial) - 40/50
+Stick Throw (5 Frame All) - 43/50
+Stick Throw (6 Frame Partial) - 43/50
+Stick Throw (6 Frame All) - 44/50
+Stick Throw (7 Frame Partial) - 36/50
+Stick Throw (7 Frame All) - 48/50
+Stick Throw (8 Frame Partial) - 40/50
+Stick Throw (8 Frame All) - 45/50
+Stick Throw (9 Frame Partial) - 38/50
+Stick Throw (9 Frame All) - 38/50
+Stick Throw (10 Frame Partial) - 25/50
+Stick Throw (10 Frame All) - 42/50
+Stick Throw (11 Frame Partial) - 39/50
+Stick Throw (11 Frame All) - 34/50
+Stick Throw (12 Frame Partial) - 31/50
+Stick Throw (12 Frame All) - 31/50
+Stick Throw (13 Frame Partial) - 31/50
+Stick Throw (13 Frame All) - 47/50
+Stick Throw (14 Frame Partial) - 38/50
+Stick Throw (14 Frame All) - 24/50
+Stick Throw (15 Frame Partial) - 20/50 [OKAY SECOND CHANCE!!!]
+Stick Throw (15 Frame All) - 20/50 [OKAY THIRD CHANCE LMFAO!!!]
+Stick Throw (16 Frame Partial) - 44/50
+Stick Throw (16 Frame All) - 39/50
+Stick Throw (17 Frame Partial) - 33/50
+Stick Throw (17 Frame All) - 49/50
+
+---WATERFALL WOSHUA ROOM ENCOUNTER MANIP---
+GOAL: 140/140
+
+Stick Drop + Cell Manips:
+No Delay - 134/140
+1 Frame Delay Partial - 112/140
+2 Frame Delay Partial - 116/140
+3 Frame Delay Partial - 119/140
+4 Frame Delay Partial - 125/140
+5 Frame Delay Partial - 112/140
+1 Frame Delay All - 137/140
+2 Frame Delay All - 125/140
+3 Frame Delay All - 121/140
+4 Frame Delay All - 131/140
+5 Frame Delay All - 122/140
+
+Stick Throw (3 Frame All) - Stick Drop Manips:
+No Delay - 139/140 [ONE AWAY LMFAO]
+1 Frame Delay Partial - 113/140
+2 Frame Delay Partial - 127/140
+3 Frame Delay Partial - 125/140
+4 Frame Delay Partial - 135/140
+5 Frame Delay Partial - 122/140
+6 Frame Delay Partial - 131/140
+7 Frame Delay Partial - 138/140
+8 Frame Delay Partial - 112/140
+9 Frame Delay Partial - 130/140
+10 Frame Delay Partial - 120/140
+11 Frame Delay Partial - 139/140 [ONE AWAY AGAIN LMFAO]
+1 Frame Delay All - 111/140
+2 Frame Delay All - 127/140
+3 Frame Delay All - 118/140
+4 Frame Delay All - 126/140
+5 Frame Delay All - 126/140
+6 Frame Delay All - 133/140
+7 Frame Delay All - 135/140
+8 Frame Delay All - 126/140
+9 Frame Delay All - 119/140
+10 Frame Delay All - 114/140
+11 Frame Delay All - 133/140
+
+1 Frame Delay Partial + 1 Frame Delay All - 126/140
+1 Frame Delay Partial + 2 Frame Delay All - 127/140
+1 Frame Delay Partial + 3 Frame Delay All - 111/140
+1 Frame Delay Partial + 4 Frame Delay All - 139/140 [THIS ISN'T FUNNY ANYMORE BRUV]
+1 Frame Delay Partial + 5 Frame Delay All - 123/140
+1 Frame Delay Partial + 6 Frame Delay All - 127/140
+1 Frame Delay Partial + 7 Frame Delay All - 118/140
+1 Frame Delay Partial + 8 Frame Delay All - 131/140
+1 Frame Delay Partial + 9 Frame Delay All - 138/140
+1 Frame Delay Partial + 10 Frame Delay All - 138/140
+
+2 Frame Delay Partial + 1 Frame Delay All - 117/140
+2 Frame Delay Partial + 2 Frame Delay All - 132/140
+2 Frame Delay Partial + 3 Frame Delay All - 122/140
+2 Frame Delay Partial + 4 Frame Delay All - 122/140
+2 Frame Delay Partial + 5 Frame Delay All - 139/140 [YOU FUCKING CUNT.]
+2 Frame Delay Partial + 6 Frame Delay All - 115/140
+2 Frame Delay Partial + 7 Frame Delay All - 125/140
+2 Frame Delay Partial + 8 Frame Delay All - 139/140 [...]
+2 Frame Delay Partial + 9 Frame Delay All - 111/140
+
+3 Frame Delay Partial + 1 Frame Delay All - 128/140
+3 Frame Delay Partial + 2 Frame Delay All - 139/140 [SIX FUCKING TIMES NOW. YOU STUPID COW.]
+3 Frame Delay Partial + 3 Frame Delay All - 135/140
+3 Frame Delay Partial + 4 Frame Delay All - 117/140
+3 Frame Delay Partial + 5 Frame Delay All - 125/140
+3 Frame Delay Partial + 6 Frame Delay All - 111/140
+3 Frame Delay Partial + 7 Frame Delay All - 118/140
+3 Frame Delay Partial + 8 Frame Delay All - 126/140
+
+4 Frame Delay Partial + 1 Frame Delay All - 137/140
+4 Frame Delay Partial + 2 Frame Delay All - 126/140
+4 Frame Delay Partial + 3 Frame Delay All - 118/140
+4 Frame Delay Partial + 4 Frame Delay All - 116/140
+4 Frame Delay Partial + 5 Frame Delay All - 120/140
+4 Frame Delay Partial + 6 Frame Delay All - 119/140
+4 Frame Delay Partial + 7 Frame Delay All - 137/140
+
+5 Frame Delay Partial + 1 Frame Delay All - 110/140
+5 Frame Delay Partial + 2 Frame Delay All - 119/140
+5 Frame Delay Partial + 3 Frame Delay All - 137/140
+5 Frame Delay Partial + 4 Frame Delay All - 130/140
+5 Frame Delay Partial + 5 Frame Delay All - 126/140
+5 Frame Delay Partial + 6 Frame Delay All - 126/140
+
+6 Frame Delay Partial + 1 Frame Delay All - 125/140
+6 Frame Delay Partial + 2 Frame Delay All - 131/140
+6 Frame Delay Partial + 3 Frame Delay All - 118/140
+6 Frame Delay Partial + 4 Frame Delay All - 139/140 [Seven. Seven human souls. That's how many souls I want to consume right now.]
+6 Frame Delay Partial + 5 Frame Delay All - 115/140
+
+7 Frame Delay Partial + 1 Frame Delay All - 111/140
+7 Frame Delay Partial + 2 Frame Delay All - 122/140
+7 Frame Delay Partial + 3 Frame Delay All - 123/140
+7 Frame Delay Partial + 4 Frame Delay All - 136/140
+
+8 Frame Delay Partial + 1 Frame Delay All - 112/140
+8 Frame Delay Partial + 2 Frame Delay All - 135/140
+8 Frame Delay Partial + 3 Frame Delay All - 120/140
+
+9 Frame Delay Partial + 1 Frame Delay All - 133/140
+9 Frame Delay Partial + 2 Frame Delay All - 120/140
+
+10 Frame Delay Partial + 1 Frame Delay All - 117/140
+
+Stick Throw (15 Frame Partial) - Stick Drop Manips:
+
+No Delay - 115/140
+1 Frame Delay Partial - 125/140
+2 Frame Delay Partial - 132/140
+3 Frame Delay Partial - 131/140
+4 Frame Delay Partial - 133/140
+5 Frame Delay Partial - 128/140
+6 Frame Delay Partial - 112/140
+7 Frame Delay Partial - 131/140
+8 Frame Delay Partial - 122/140
+9 Frame Delay Partial - 118/140
+10 Frame Delay Partial - 133/140
+11 Frame Delay Partial - 134/140
+wtf is this lmfao? Partial - 128/140
+1 Frame Delay All - 127/140
+2 Frame Delay All - 117/140
+3 Frame Delay All - 132/140
+4 Frame Delay All - 122/140
+5 Frame Delay All - 122/140
+6 Frame Delay All - 139/140 [You cock.]
+7 Frame Delay All - 115/140
+8 Frame Delay All - 125/140
+9 Frame Delay All - 139/140 [AGAIN?!]
+10 Frame Delay All - 111/140
+11 Frame Delay All - 112/140
+12 Frame Delay All - 130/140
+
+1 Frame Delay Partial + 1 Frame Delay All - 117/140
+1 Frame Delay Partial + 2 Frame Delay All - 129/140
+1 Frame Delay Partial + 3 Frame Delay All - 120/140
+1 Frame Delay Partial + 4 Frame Delay All - 117/140
+1 Frame Delay Partial + 5 Frame Delay All - 138/140
+1 Frame Delay Partial + 6 Frame Delay All - 111/140
+1 Frame Delay Partial + 7 Frame Delay All - 119/140
+1 Frame Delay Partial + 8 Frame Delay All - 128/140
+1 Frame Delay Partial + 9 Frame Delay All - 140/140
+
+I FUCKING GOT IT LET'S GOOOOOOOO!!!
+
+---WATERFALL MOLDSMAL BLCON MANIP---
+GOAL: blcon alarm[4] = 15/20 without a 1-frame manip.
+
+No Manip - 15/20
+
+LMFAO FIRST TRY
+
+---WATERFALL SPEARS 2 TURNAROUND---
+Bottom - 36070
+Top - 36070
+
+---WATERFALL UNDYNE ZIGZAG---
+Got the zigzag
+
+---HOTLAND VULKIN BLCON---
+VULKIN BLCON GOAL: 15/20
+
+CURRENT LOWEST BLCON VALUE: 15/20
+
+ACHIEVED BY [INSERT THING LATER LMFAO]
+
+---MAGMA CHAMBER STEP COUNT---
+I got 130 but still got Fixyflow chain vents to work.
+
+---TSUNDERPLANE BLCON VALUE---
+TSUNDERPLANE BLCON GOAL: 15/20
+
+CURRENT LOWEST BLCON VALUE: 15/20
+
+ACHIEVED BY DOING A 1-FRAME DELAY AFTER ALL TEXT IS DRAWN AFTER EQUIPPING ITEM
+
+****[FEEDBACK FOR WIP 5]****
+You want to hold right at the end of the falling down cutscene. it moves you a pixel when you enter the trash room
+
+Hard to tell, but make sure you're pressing z/enter on the first frame of the room for overflowing the save point and saving.
+
+Scroll the screen during the mad dummy intro cutscene. You want to walk down to y = 300 and then back up to y = 225.
+
+Since this is NG+, your death message isn't fixed. You want to manip for "Don't lose hope!"/"H! Stay determined..."
+
+You want to get the temmie encounter while wallclipped, because being in the wall makes you move a frame sooner when closing the text.
+
+It looks like you were late entering the transition for onedyne
+
+The point of killing temmie instead of vulkin is that you don't have to hit the 3rd quad on undyne, you can do less damage and still get the cycle skip. 
+
+At frame 45654 you may be able to save a frame by wall clipping. I think you can reach the vertical conveyor a frame sooner that way
+
+cz'ing the elevator panel after menu recovery is faster than a normal overflow. you did a normal overflow after jetpack skip 
+
+You also PCE slid upwards when overflowing the elevator instead of down.
+
+Also you wanna release up after interacting with the elevator door before menu recovery, so you can move left/right on the frame after interacting.
+
+You did 9 and 10 correctly after news skip, but you missed 11 on both menu recoveries.
+
+****[STUFF FOR WIP 6]****
+---WATERFALL MD GAMEOVER TEXT MANIP---
+1 Frame Hahaha... Partial - "You're going to be alright!"
+2 Frame Hahaha... Partial - "Our fate rests upon you..."
+3 Frame Hahaha... Partial - "Don't lose hope!"
+
+"Don't lose hope!" is the best, I went for that.
+
+---WATERFALL UNDYNE FIGHT DAMAGE---
+Resulting HP after 3 Undyne hits should be 1125 or less.
+
+---WATERFALL UNDYNE PATTERN MANIP---
+REQUIRED: PATTERN 3, PATTERN 6 OR PATTERN 9
+
+NO DELAY [NO QUAD ATTACK 3] - PATTERN 3
+1 FRAME PARTIAL [NO QUAD ATTACK 3] - PATTERN 7
+1 FRAME ALL [NO QUAD ATTACK 3] - PATTERN 3
+
+---WATERFALL UNDYNE CYCLE SKIP---
+ASSUMING:
+149/148 SECOND [149]
+148/149 THIRD [148]
+
+PERFECT
+
+I NEED:
+79 FIRST
+
+PERFECT
+
+---HOTLAND VULKIN BLCON MANIP + MAGMA CHAMBER STEP COUNT---
+GOAL: 15/20 and >=130/150 MC SC
+
+-NOTIF ROOM AFTER LAB-
+TG Info No Delay - 17/20 [NO THANKS]
+TG Info 1 Frame Partial - 18/20 [NO THANKS]
+TG Info 1 Frame All - 19/20 [NO THANKS]
+TG Info 2 Frame Partial - 16/20 [NO THANKS]
+TG Info 2 Frame All - 16/20 [NO THANKS]
+TG Equip No Delay - 17/20 [NO THANKS]
+TG Equip 1 Frame Partial - 20/20 [FUCK NO]
+TG Equip 1 Frame All - 18/20 [NO THANKS]
+TG Equip 2 Frame Partial - 19/20 [NO THANKS]
+TG Equip 2 Frame All - 18/20 [NO THANKS]
+PC Info No Delay - 18/20 [NO THANKS]
+
+-EXITING LAB-
+TG Info No Delay - 17/20 [NO THANKS]
+TG Info 1 Frame Partial - 18/20 [NO THANKS]
+TG Info 1 Frame All - 19/20 [NO THANKS]
+TG Info 2 Frame Partial - 16/20 [NO THANKS]
+TG Info 2 Frame All - 16/20 [NO THANKS]
+TG Equip No Delay - 17/20 [NO THANKS]
+TG Equip 1 Frame Partial - 20/20 [FUCK NO]
+TG Equip 1 Frame All - 18/20 [NO THANKS]
+TG Equip 2 Frame Partial - 19/20 [NO THANKS]
+TG Equip 2 Frame All - 18/20 [NO THANKS]
+PC Info No Delay - 18/20 [NO THANKS]
+
+-EXITING LAB + NOTIF ROOM AFTER LAB-
+LAB TG Info No Delay + NOTIF TG Info No Delay - 19/20 [NO THANKS]
+LAB TG Info No Delay + NOTIF TG Info 1 Frame Partial - 16/20 [NO THANKS]
+LAB TG Info No Delay + NOTIF TG Info 1 Frame All - 16/20 [NO THANKS]
+LAB TG Info No Delay + NOTIF TG Info 2 Frame Partial - 15/20 | 144/150 [FUCK YES!]
+
+****[FEEDBACK FOR WIP 6]****
+Cancelled WW into LF3 loses time
+
+open the menu on the first frame of the room after menu recovery [need Variable Framerate for this]
+
+****[STUFF FOR WIP 7]****
+---ENTERING LF3---
+Fixed the cancelled WW thing, saved 0.1s.
+
+Haven't opened the menu on the first frame of the room after menu recovery, will do this in the next WIP.
+
+---NEW HOME GEOBAGEL SKIP BLCON MANIP---
+GOAL: 118 OR HIGHER
+
+Achieved. And no, I'm not talking about the TSMFTX Rainbow Six Siege player Achieved :)
+
+---TASGORE---
+Yes.
+
+---FLOWEY---
+Not even a worry.
+
+****[FEEDBACK FOR WIP 7]****
+You didn't do optimal menuing during the soul flash after getting the first key
+
+PCE sliding the encounter on the right is faster
+
+CELL Fixyflow chain in the long room of monstertale [need Variable Framerate for this]
+
+****[STUFF FOR WIP 7]****
+~blah~blah~blah~
+
+-----VERIFICATION MOVIE INFO-----
+Get good fun value.
+[FUN IS GOOD]
+
+Select Cinnamon when Toriel asks what flavor of pie you want.
+[DONE THIS]
+
+Kill Asgore thrice to get "..." in end Flowey text:
+	Save in Judgement Hall, Gameover in asgore, then kill Asgore once then do Omega Flowey 
+	then reload when you reach the UNDERTALE logo. Kill Asgore again and reload again. Kill 
+	Asgore once more and the Won value in undertale.ini should be 3.000000.
+[DONE THIS TOO]
+
+VERIFICATION MOVIE FINISHED.
+
